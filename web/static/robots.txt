@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /auth
+Disallow: /panel
+
+Sitemap: https://xellu.xyz/sitemap.xml
+Sitemap: https://xellu.xyz/api/v2/sitemap/blog.xml

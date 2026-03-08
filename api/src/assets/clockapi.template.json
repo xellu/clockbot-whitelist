@@ -1,0 +1,8 @@
+{
+    "discord": {
+        "appId": 0,
+        "appPublic": "",
+        "appSecret": ""
+    },
+    "serverUrl": "http://localhost"
+}
